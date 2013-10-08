@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">de.flashmode.tools</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_email_address">Enter the email address</string>
+    <string name="submit_button">submit</string>
+    <string name="submit_greeting">thanks for your email address [%s]</string>
+    <string name="error_email_missing">Please enter email address.</string>
+    <string name="error_ok">OK</string>
+    <string name="title_activity_result_ordered_article">ResultOrderedArticleActivity</string>
+    <string name="Product_name_key">Product Name</string>
+    <string name="Product_amount_key">Amount</string>
+    <string name="Creation_date_key">Creation date</string>
+    
+
+</resources>
